@@ -18,16 +18,23 @@
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Action-Status" Type="Folder">
 			<Item Name="Action-Status.mnu" Type="Document" URL="/&lt;instrlib&gt;/9103Series/Public/Action-Status/Action-Status.mnu"/>
-			<Item Name="Configure Output.vi" Type="VI" URL="/&lt;instrlib&gt;/9103Series/Public/Configure/Configure Output.vi"/>
+			<Item Name="Configure Output.vi" Type="VI" URL="/&lt;instrlib&gt;/9103series/Public/Configure/Configure Output.vi"/>
+			<Item Name="GetOutputState.vi" Type="VI" URL="/&lt;instrlib&gt;/9103series/Public/Action-Status/GetOutputState.vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
 			<Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/9103Series/Public/Configure/Configure.mnu"/>
-			<Item Name="SetVoltageLimit.vi" Type="VI" URL="/&lt;instrlib&gt;/9103Series/Public/Configure/SetVoltageLimit.vi"/>
+			<Item Name="SetVoltageLimit.vi" Type="VI" URL="/&lt;instrlib&gt;/9103series/Public/Configure/SetVoltageLimit.vi"/>
 			<Item Name="SetCurrentLimit.vi" Type="VI" URL="/&lt;instrlib&gt;/9103Series/Public/Configure/SetCurrentLimit.vi"/>
+			<Item Name="GetOverCurrProtLimit.vi" Type="VI" URL="/&lt;instrlib&gt;/9103series/Public/Configure/GetOverCurrProtLimit.vi"/>
+			<Item Name="GetOverVoltProtLimit.vi" Type="VI" URL="/&lt;instrlib&gt;/9103series/Public/Configure/GetOverVoltProtLimit.vi"/>
+			<Item Name="SetOverVoltProtLimit.vi" Type="VI" URL="/&lt;instrlib&gt;/9103series/Public/Configure/SetOverVoltProtLimit.vi"/>
+			<Item Name="SetOverCurrProtLimit.vi" Type="VI" URL="/&lt;instrlib&gt;/9103series/Public/Configure/SetOverCurrProtLimit.vi"/>
+			<Item Name="GetPresetSettings.vi" Type="VI" URL="/&lt;instrlib&gt;/9103series/Public/Configure/GetPresetSettings.vi"/>
+			<Item Name="SetPresetSettings.vi" Type="VI" URL="/&lt;instrlib&gt;/9103series/Public/Configure/SetPresetSettings.vi"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
 			<Item Name="Data.mnu" Type="Document" URL="/&lt;instrlib&gt;/9103Series/Public/Data/Data.mnu"/>
-			<Item Name="Read Output.vi" Type="VI" URL="/&lt;instrlib&gt;/9103Series/Public/Data/Read Output.vi"/>
+			<Item Name="Read Output.vi" Type="VI" URL="/&lt;instrlib&gt;/9103series/Public/Data/Read Output.vi"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
 			<Item Name="Utility.mnu" Type="Document" URL="/&lt;instrlib&gt;/9103Series/Public/Utility/Utility.mnu"/>
