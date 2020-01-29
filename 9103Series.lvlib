@@ -23,13 +23,10 @@
 		</Item>
 		<Item Name="Configure" Type="Folder">
 			<Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/9103Series/Public/Configure/Configure.mnu"/>
-			<Item Name="SetVoltageLimit.vi" Type="VI" URL="/&lt;instrlib&gt;/9103series/Public/Configure/SetVoltageLimit.vi"/>
+			<Item Name="SetVoltageLimit.vi" Type="VI" URL="/&lt;instrlib&gt;/9103Series/Public/Configure/SetVoltageLimit.vi"/>
 			<Item Name="SetCurrentLimit.vi" Type="VI" URL="/&lt;instrlib&gt;/9103Series/Public/Configure/SetCurrentLimit.vi"/>
-			<Item Name="GetOverCurrProtLimit.vi" Type="VI" URL="/&lt;instrlib&gt;/9103series/Public/Configure/GetOverCurrProtLimit.vi"/>
-			<Item Name="GetOverVoltProtLimit.vi" Type="VI" URL="/&lt;instrlib&gt;/9103series/Public/Configure/GetOverVoltProtLimit.vi"/>
-			<Item Name="SetOverVoltProtLimit.vi" Type="VI" URL="/&lt;instrlib&gt;/9103series/Public/Configure/SetOverVoltProtLimit.vi"/>
+			<Item Name="SetOverVoltProtLimit.vi" Type="VI" URL="/&lt;instrlib&gt;/9103Series/Public/Configure/SetOverVoltProtLimit.vi"/>
 			<Item Name="SetOverCurrProtLimit.vi" Type="VI" URL="/&lt;instrlib&gt;/9103series/Public/Configure/SetOverCurrProtLimit.vi"/>
-			<Item Name="GetPresetSettings.vi" Type="VI" URL="/&lt;instrlib&gt;/9103series/Public/Configure/GetPresetSettings.vi"/>
 			<Item Name="SetPresetSettings.vi" Type="VI" URL="/&lt;instrlib&gt;/9103series/Public/Configure/SetPresetSettings.vi"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
